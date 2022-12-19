@@ -138,21 +138,21 @@ public class Main {
             System.out.println("Ткань "+tka*0.55);
             System.out.println("Краска "+kra*0.55);
         }else if (sale ==4){
-            System.out.println("Состояние почти весь пропал");
-            System.out.println("Мясо"+mso*0.25);
-            System.out.println("Сухарики"+sux*0.25);
-            System.out.println("Зерно"+zer*0.25);
-            System.out.println("Мука"+muka*0.25);
-            System.out.println("Ткань"+tka*0.25);
-            System.out.println("Краска"+kra*0.25);
+            System.out.println("Состояние: почти весь пропал");
+            System.out.println("Мясо "+mso*0.25);
+            System.out.println("Сухарики "+sux*0.25);
+            System.out.println("Зерно "+zer*0.25);
+            System.out.println("Мука "+muka*0.25);
+            System.out.println("Ткань "+tka*0.25);
+            System.out.println("Краска "+kra*0.25);
         }else if (sale==5){
-            System.out.println("Состояние испорчен в хлам");
-            System.out.println("Мясо"+mso*0.1);
-            System.out.println("Сухарики"+sux*0.1);
-            System.out.println("Зерно"+zer*0.1);
-            System.out.println("Мука"+muka*0.1);
-            System.out.println("Ткань"+tka*0.1);
-            System.out.println("Краска"+kra*0.1);
+            System.out.println("Состояние: испорчен в хлам");
+            System.out.println("Мясо "+mso*0.1);
+            System.out.println("Сухарики "+sux*0.1);
+            System.out.println("Зерно "+zer*0.1);
+            System.out.println("Мука "+muka*0.1);
+            System.out.println("Ткань "+tka*0.1);
+            System.out.println("Краска "+kra*0.1);
         }else{
             System.out.println("try again");
         }
